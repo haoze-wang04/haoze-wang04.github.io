@@ -26,9 +26,9 @@ author:
   avatar           : "1-1.jpg"
   name             : "Haoze Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : # "Short biography for the left-hand sidebar"
+  location         : "Xi'an, Shaanxi, China"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "w97871749@gmail.com" 
 
