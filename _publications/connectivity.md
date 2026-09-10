@@ -2,7 +2,7 @@
 title: "Connectivity Oracles Under Vertex Failures via a Simple and Fast Low-Degree Steiner Forest Decomposition"
 collection: publications
 date: 2026-09-02
-category: prepaints
+category: preprints
 
 authors:
   - Sayan Bhattacharya
