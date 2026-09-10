@@ -83,21 +83,15 @@ Submitted to SOSA 2027.
 
 ### Yang Xin Lotus Virtue Scholarship
 
-EECS, Peking University
-
-September 2025
+EECS, Peking University, September 2025
 
 ### John Hopcroft Scholarship
 
-John Hopcroft Foundation
-
-September 2024
+John Hopcroft Foundation, September 2024
 
 ### Silver Medal in Chinese Mathematical Olympiad
 
-Chinese Mathematical Society
-
-December 2021
+Chinese Mathematical Society, December 2021
 
 ## Coursework Relevant to Theoretical Computer Science
 
