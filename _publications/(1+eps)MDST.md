@@ -1,5 +1,5 @@
 ---
-title: "Minimum Degree Spanning Tree: $(1+\epsilon, 1)$-Approximation in Near-Linear Time"
+title: "Minimum Degree Spanning Tree: $(1+\epsilon,1)$-Approximation in Near-Linear Time"
 collection: publications
 date: 2026-04-01
 category: preprints
