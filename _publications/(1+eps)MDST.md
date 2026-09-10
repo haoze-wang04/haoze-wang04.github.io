@@ -15,6 +15,6 @@ excerpt: >-
   problem with a $(1+\epsilon,1)$-approximation guarantee, achieving optimal degree
   bounds up to an arbitrarily small multiplicative error.
 venue: "arXiv"
-
+---
 
 [Download paper here](https://arxiv.org/pdf/2607.11413)
