@@ -16,9 +16,9 @@ I have worked with the TCS groups at Peking University and the University of War
 
 My work has been published to venues including STOC and ISAAC.
 
-Beside research, I am also interested in games and designing games, and, novels and writing novels.
+Beside research, I am also interested in games and designing games, novels and writing novels.
 
-I will start an internship at MPI soon.
+I will start an internship at Max Planck Institute (MPI) soon.
 
 **I am currently seeking Ph.D. positions.**
 <!-- and also girlfriend :) -->
