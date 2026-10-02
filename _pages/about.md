@@ -20,9 +20,10 @@ Beside research, I am also interested in games and designing games, novels and w
 
 I will start an internship at Max Planck Institute (MPI) soon.
 
-**I am currently seeking Ph.D. positions.**
+<!-- **I am currently seeking Ph.D. positions.**-->
 <!-- and also girlfriend :) -->
 
 ## News
+- **[Oct 2026]** Our paper ["Connectivity Oracles Under Vertex Failures via a Simple and Fast Low-Degree Steiner Forest Decomposition"](https://arxiv.org/abs/2609.02388) got accepted to SOSA 2027.
 - **[Sep 2026]** Our paper ["Streaming Max-Cut in General Metrics"](https://arxiv.org/pdf/2510.04435) got accepted to ISAAC 2026.
 - **[Feb 2026]** Our paper ["Additive One Approximation for Minimum Degree Spanning Tree: Breaking the O(mn) Time Barrier"](https://arxiv.org/pdf/2602.23448) got accepted to STOC 2026.
