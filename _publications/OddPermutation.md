@@ -9,6 +9,8 @@ authors:
   - Hanqing Li
   - Xupeng Miao
   - Haoze Wang
+excerpt: >-
+  We give a deterministic algorithm for evaluating odd-permutation sums and all their first partial derivatives over characteristic-two fields in $O(n^\omega)$ time, leading to faster randomized algorithms for shortest even directed cycles with $\widetilde O(n^\omega\ell)$ time for computing their length and all participating arcs.
 venue: "Submitted to STOC 2027"
 ---
 
