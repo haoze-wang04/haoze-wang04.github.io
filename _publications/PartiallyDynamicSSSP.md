@@ -8,6 +8,8 @@ authors:
   - Hanqing Li
   - Xupeng Miao
   - Haoze Wang
+excerpt: >-
+  We develop almost-linear-time algorithms for decremental single-source distance estimates and incremental single-source shortest paths in directed graphs, additionally supporting the maintenance and reporting of approximate shortest paths in the incremental setting.
 venue: "Submitted to STOC 2027"
 ---
 
