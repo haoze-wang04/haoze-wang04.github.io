@@ -8,7 +8,7 @@ authors:
   - Pan Peng
   - Haoze Wang
 excerpt: 'We initiate the study of the streaming complexity of Max-Cut in general metric spaces, giving a polylog-space $(1+\epsilon)$-approximation for sliding-window streams while proving a polynomial-space lower bound for dynamic streams.'
-venue: 'ISAAC'
+venue: 'ISAAC 2026'
 ---
 
 [Download paper here](https://arxiv.org/pdf/2510.04435)
