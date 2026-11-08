@@ -8,7 +8,7 @@ authors:
   - Ermiya Farokhnejad
   - Haoze Wang
 excerpt: 'We develop a deterministic algorithm for the Minimum Degree Spanning Tree problem that achieves an additive-one approximation in $\tilde{O}(mn^{3/4})$ time, breaking the longstanding $\tilde{O}(mn)$ runtime barrier.'
-venue: 'STOC'
+venue: 'STOC 2026'
 ---
 
 [Download paper here](https://arxiv.org/abs/2602.23448)
